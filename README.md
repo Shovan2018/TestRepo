@@ -1,2 +1,2 @@
 # KONEREPO
-Repository is for KONECORP 
+This Repository is for KONECORP 
