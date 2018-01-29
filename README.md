@@ -1,2 +1,2 @@
 # KONEREPO
-This Repository is for testing KONECORP Project.
+This is a test Repository for KONECORP Project.
